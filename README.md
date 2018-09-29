@@ -1,7 +1,8 @@
 # This is my readme file
 <<<<<<< HEAD
 Hello Friends and Computers
-=======
+======
+Hello
 Hello this is merge conflict
 >>>>>>> 67dcb161053f48235d52b28aa3998b64d4ae7626
 Hello Cloud Gurus
